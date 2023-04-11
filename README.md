@@ -31,6 +31,7 @@ We have created a new documentation site for the API, which can be found at [doc
 * [OpenAPI Specification](https://github.com/search?l=&q=user%3AQilinCloud+language%3AYAML&type=code)
 * [Postman Collection](https://github.com/search?l=&q=user%3AQilinCloud+postman_collection+language%3AJSON&type=code)
 * [SDKs](https://github.com/search?q=user%3AQilinCloud+SDK&type=repositories)
+* [Join Slack Channel #external-devs](https://join.slack.com/share/todo)
 
 
 ## How to provide feedback
