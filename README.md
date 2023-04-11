@@ -1,14 +1,14 @@
 # Welcome!
 
-Qilin is a global plattform for composable commerce. We're driven by our mission to enable every merchat using the right tools at the right time!
-Qilin is part of the [MACH Alliance](https://machalliance.org/).
+Qilin.Cloud is a global plattform for composable commerce. We're driven by our mission to enable every merchat using the right tools at the right time!
+Qilin.Cloud is part of the [MACH Alliance](https://machalliance.org/).
 
 This space is a way for us to collaborate directly with developers like you.
 
 
 ## What we’re doing
 
-We have built a foundation of which all areas of e-commerce are to be mapped in such a way that a seamless exchange is possible in all directions. We are constantly working on it and improving our services, adding new endpoints and methods, refining models and fixing bugs. All of this has to be well documented, because the goal of our work is to meet the needs of the Qilin developer community and make your life easier. This space should therefore be for open, fast and uncomplicated exchange.
+We have built a foundation of which all areas of e-commerce are to be mapped in such a way that a seamless exchange is possible in all directions. We are constantly working on it and improving our services, adding new endpoints and methods, refining models and fixing bugs. All of this has to be well documented, because the goal of our work is to meet the needs of the Qilin.Cloud developer community and make your life easier. This space should therefore be for open, fast and uncomplicated exchange.
 
 
 ## Why we’re building in the open
@@ -31,10 +31,10 @@ We have created a new documentation site for the API, which can be found at [doc
 
 ## How to provide feedback
 
-We’ve built several [issue templates](https://github.com/QilinCloud/api/issues/new/choose) to make it easier for you. Generally, bugs and feature requests for the API or docs should be Github issues. Everything else should be sent as a support request to [development@qilin.cloud](mailto:development@qilin.cloud).
+Generally, bugs and enhancements for the API or docs should be provided by the issues tab in the repository. Everything else takes place in the discussions tab.
 
-We also aimed to make it easy to provide feedback directly from our API reference docs. Each endpoint definition includes a link to file a bug or feature request with some details filled in.
+## Legal
 
-Note that by submitting your feedback, we have the right to use it.
+:warning: **Note that by submitting your feedback, we have the right to use it.**[^1]
 
-Legalese-wise, this means it’s considered non-confidential and non-proprietary to you, and you grant Qilin a non-exclusive, worldwide, royalty-free, irrevocable, sub-licensable, perpetual license to use and publish those ideas and materials for any purpose, without compensation to you.
+[^1]:Legalese-wise, this means it’s considered non-confidential and non-proprietary to you, and you grant Qilin.Cloud a non-exclusive, worldwide, royalty-free, irrevocable, sub-licensable, perpetual license to use and publish those ideas and materials for any purpose, without compensation to you.
