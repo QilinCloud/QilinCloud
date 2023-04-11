@@ -18,7 +18,7 @@ We’ve spent a lot of time poring over data and charts, but we recognize that o
 
 ## How to get started
 
-We have created a new documentation site for the API, which can be found at [documentation.api.qilin.cloud](https://documentation.api.qilin.cloud/). We’ll continue to add new content. If you are looking for specific documentation or have feedback, feel free to [create an issue](https://github.com/QilinCloud/api/issues/new/choose).
+We have created a new documentation site for the API, which can be found at [documentation.api.qilin.cloud](https://documentation.api.qilin.cloud/). We’ll continue to add new content.
 
 
 ### Useful links to get started
