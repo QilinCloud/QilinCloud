@@ -27,6 +27,9 @@ We have created a new documentation site for the API, which can be found at [doc
 * [Making requests](https://documentation.api.qilin.cloud/)
 * [API schema docs](https://documentation.api.qilin.cloud/)
 * [Getting Developer Access](https://documentation.api.qilin.cloud/)
+* [OpenAPI Specification](https://github.com/search?l=&q=user%3AQilinCloud+language%3AYAML&type=code)
+* [Postman Collection](https://github.com/QilinCloud/API-Offer/blob/main/postman_collection-offer.json)
+* [SDKs](https://github.com/search?q=user%3AQilinCloud+SDK)
 
 
 ## How to provide feedback
