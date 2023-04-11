@@ -28,7 +28,7 @@ We have created a new documentation site for the API, which can be found at [doc
 * [Making API requests](https://documentation.api.qilin.cloud/)
 * [API schema docs](https://documentation.api.qilin.cloud/)
 * [Getting Developer Access](https://documentation.api.qilin.cloud/)
-* [OpenAPI Specification](https://github.com/search?l=&q=user%3AQilinCloud+language%3AYAML&type=code)
+* [OpenAPI Specification](https://github.com/search?l=&q=user%3AQilinCloud+extension%3A.yaml+filename%3Aopenapi&type=code)
 * [Postman Collection](https://github.com/search?q=user%3AQilinCloud+extension%3A.json+filename%3Apostman_collection&type=Code&ref=advsearch&l=&l=)
 * [SDKs](https://github.com/search?q=user%3AQilinCloud+SDK&type=repositories)
 * [Join Slack Channel #external-devs](https://join.slack.com/share/todo)
