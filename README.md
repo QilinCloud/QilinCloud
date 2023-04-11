@@ -23,8 +23,9 @@ We have created a new documentation site for the API, which can be found at [doc
 
 ### Useful links to get started
 
-* [OAuth2 authentication](https://documentation.api.qilin.cloud/)
-* [Making requests](https://documentation.api.qilin.cloud/)
+* [Documentation](https://documentation.api.qilin.cloud/)
+* [API Authentication](https://documentation.api.qilin.cloud/)
+* [Making API requests](https://documentation.api.qilin.cloud/)
 * [API schema docs](https://documentation.api.qilin.cloud/)
 * [Getting Developer Access](https://documentation.api.qilin.cloud/)
 * [OpenAPI Specification](https://github.com/search?l=&q=user%3AQilinCloud+language%3AYAML&type=code)
