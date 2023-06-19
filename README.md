@@ -40,13 +40,9 @@ You will find some code-quality reports in the overview of each repository.
 
 We use a variety of state-of-the-art techniques to ensure that our code meets the highest quality criteria. If you still notice something bad, we are happy to have a strong community to solve the problem together with you: [How to provide Feedback](https://github.com/QilinCloud#how-to-provide-feedback)
 
-## General architecture
+## Wiki
 
-To be done.
-
-## Definitions & Terminology
-
-To be done.
+We recommend reading the [wiki](https://github.com/QilinCloud/QilinCloud/wiki), here you will find the basic overview of how to use the Qlin.Cloud API. 
 
 ## How to provide feedback
 
