@@ -29,13 +29,8 @@ We provice you some SDKs for common used languages here: [Show me the SDKs](http
 
 ## Community
 
-* [Endpoint documentation](https://documentation.api.qilin.cloud/)
-* [API Authentication](https://documentation.api.qilin.cloud/)
-* [Making API requests](https://documentation.api.qilin.cloud/)
-* [Getting Developer Access](https://documentation.api.qilin.cloud/)
-* [OpenAPI Specification](https://github.com/search?q=user%3AQilinCloud+path%3A*.yaml&type=Code&ref=advsearch&l=&l=)
-* [Postman Collection](https://github.com/search?q=user%3AQilinCloud+extension%3A.json+filename%3Apostman_collection&type=Code&ref=advsearch&l=&l=)
-* [Join Slack Channel #external-devs](https://join.slack.com/share/todo)
+We invite you to join our open Slack Tech Talk channel: [Join Slack Channel #external-devs](https://join.slack.com/share/todo)
+
 
 ## Code Quality
 You will find some code-quality reports in the overview of each repository.
