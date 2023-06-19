@@ -29,7 +29,7 @@ We provice you some SDKs for common used languages here: [Show me the SDKs](http
 
 ## Community
 
-* [Documentation](https://documentation.api.qilin.cloud/)
+* [Endpoint documentation](https://documentation.api.qilin.cloud/)
 * [API Authentication](https://documentation.api.qilin.cloud/)
 * [Making API requests](https://documentation.api.qilin.cloud/)
 * [Getting Developer Access](https://documentation.api.qilin.cloud/)
