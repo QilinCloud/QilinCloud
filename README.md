@@ -35,6 +35,18 @@ We have created a new documentation site for the API, which can be found at [doc
 * [SDKs](https://github.com/search?q=user%3AQilinCloud+SDK&type=repositories)
 * [Join Slack Channel #external-devs](https://join.slack.com/share/todo)
 
+## Code Quality
+You will find some code-quality reports in the overview of each repository.
+
+We use a variety of state-of-the-art techniques to ensure that our code meets the highest quality criteria. If you still notice something bad, we are happy to have a strong community to solve the problem together with you: [How to provide Feedback](https://github.com/QilinCloud#how-to-provide-feedback)
+
+## General architecture
+
+To be done.
+
+## Definitions & Terminology
+
+To be done.
 
 ## How to provide feedback
 
@@ -45,10 +57,5 @@ Generally, bugs and enhancements for the API or docs should be provided by the i
 ## Legal
 
 Note that by submitting your feedback, we have the right to use it.[^1]
-
-## Code Quality
-You will find some code-quality reports in the overview of each repository.
-
-We use a variety of state-of-the-art techniques to ensure that our code meets the highest quality criteria. If you still notice something bad, we are happy to have a strong community to solve the problem together with you: [How to provide Feedback](https://github.com/QilinCloud#how-to-provide-feedback)
 
 [^1]:Legalese-wise, this means it’s considered non-confidential and non-proprietary to you, and you grant Qilin.Cloud a non-exclusive, worldwide, royalty-free, irrevocable, sub-licensable, perpetual license to use and publish those ideas and materials for any purpose, without compensation to you.
