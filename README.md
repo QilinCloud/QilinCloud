@@ -8,7 +8,9 @@ This space is a way for us to collaborate directly with developers like you.
 
 ## What we’re doing
 
-We have built a foundation of which all areas of e-commerce are to be mapped in such a way that a seamless exchange is possible in all directions. We are constantly working on it and improving our services, adding new endpoints and methods, refining models and fixing bugs. All of this has to be well documented, because the goal of our work is to meet the needs of the Qilin.Cloud developer community and make your life easier. This space should therefore be for open, fast and uncomplicated exchange.
+We have built a technology framework where all areas of e-commerce are meet in such a way that a seamless & fast exchange is possible in all directions.
+With our powerfull data orchestration engine, you are able to create customised processors for your very own, specific scenario. Accordingly to our sophisticated process mining engine, you not only define, overvies and analyze processes, but also automatically identify inefficiencies and therefore safe time and money to have them fixed.
+We are constantly working on it and improving our services, adding new endpoints and methods, refining models and fixing bugs. All of this has to be well documented, because the goal of our work is to meet the needs of the Qilin.Cloud developer community and make your life easier. This space should therefore be for open, fast and uncomplicated exchange.
 
 
 ## Why we’re building in the open
@@ -38,8 +40,15 @@ We have created a new documentation site for the API, which can be found at [doc
 
 Generally, bugs and enhancements for the API or docs should be provided by the issues tab in the repository. Everything else takes place in the discussions tab.
 
+:warning: For vulnerabilities please check out the security tab.
+
 ## Legal
 
-:warning: **Note that by submitting your feedback, we have the right to use it.**[^1]
+Note that by submitting your feedback, we have the right to use it.[^1]
+
+## Code Quality
+You will find some code-quality reports in the overview of each repository.
+
+We use a variety of state-of-the-art techniques to ensure that our code meets the highest quality criteria. If you still notice something bad, we are happy to have a strong community to solve the problem together with you: [How to provide Feedback](https://github.com/QilinCloud#how-to-provide-feedback)
 
 [^1]:Legalese-wise, this means it’s considered non-confidential and non-proprietary to you, and you grant Qilin.Cloud a non-exclusive, worldwide, royalty-free, irrevocable, sub-licensable, perpetual license to use and publish those ideas and materials for any purpose, without compensation to you.
