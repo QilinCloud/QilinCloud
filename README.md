@@ -45,7 +45,7 @@ We recommend reading the [wiki](https://github.com/QilinCloud/QilinCloud/wiki), 
 
 Generally, bugs and enhancements for the API or docs should be provided by the issues tab in the repository. Everything else takes place in the discussions tab.
 
-:warning: For vulnerabilities please check out the security tab.
+:warning: For vulnerabilities please check out the security tab in the repository.
 
 ## Legal
 
