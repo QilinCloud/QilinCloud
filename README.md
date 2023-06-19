@@ -33,7 +33,7 @@ We provice you some SDKs for common used languages here: [Show me the SDKs](http
 * [API Authentication](https://documentation.api.qilin.cloud/)
 * [Making API requests](https://documentation.api.qilin.cloud/)
 * [Getting Developer Access](https://documentation.api.qilin.cloud/)
-* [OpenAPI Specification](https://github.com/search?l=&q=user%3AQilinCloud+extension%3A.yaml+filename%3Aopenapi&type=code)
+* [OpenAPI Specification](https://github.com/search?q=user%3AQilinCloud+path%3A*.yaml&type=Code&ref=advsearch&l=&l=)
 * [Postman Collection](https://github.com/search?q=user%3AQilinCloud+extension%3A.json+filename%3Apostman_collection&type=Code&ref=advsearch&l=&l=)
 * [Join Slack Channel #external-devs](https://join.slack.com/share/todo)
 
