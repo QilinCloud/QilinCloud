@@ -8,10 +8,14 @@ This space is a way for us to collaborate directly with developers like you.
 
 ## What we’re doing
 
-We have built a technology framework where all areas of e-commerce are meet in such a way that a seamless & fast exchange is possible in all directions.
-With our powerfull data orchestration engine, you are able to create customised processors for your very own, specific scenario. Accordingly to our sophisticated process mining engine, you not only define, overvies and analyze processes, but also automatically identify inefficiencies and therefore safe time and money to have them fixed.
-We are constantly working on it and improving our services, adding new endpoints and methods, refining models and fixing bugs. All of this has to be well documented, because the goal of our work is to meet the needs of the Qilin.Cloud developer community and make your life easier. This space should therefore be for open, fast and uncomplicated exchange.
+We have created a technological framework in which all areas of e-commerce converge in such a way as to ensure seamless and rapid interchangeability, no matter of who, when, how much and where.
+With our powerfull data orchestration engine, you are able to create customised processors for your very own and specific scenario. Accordingly to our sophisticated process mining engine, you not only define, overview and analyze processes, but also automatically identify inefficiencies and therefore safe time and money to have them fixed.
+We are constantly working on it and improving our services, adding new endpoints and methods, refining models and fixing bugs.
+All of this has to be well documented, because the goal of our work is to meet the needs of the Qilin.Cloud developer community and make your life easier. This space should therefore be for open, fast and uncomplicated exchange.
 
+## Looking for a new challening opportunity?
+
+We are always looking for creative minds to join us as dev, architect, qc, pm, devop or secop to build the Qilin.Cloud of tomorrow! Join our fascinating crowd: [jobs@qilin.cloud](jobs@qilin.cloud).
 
 ## Why we’re building in the open
 
