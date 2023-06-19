@@ -20,19 +20,21 @@ We’ve spent a lot of time poring over data and charts, but we recognize that o
 
 ## How to get started
 
-We have created a new documentation site for the API, which can be found at [documentation.api.qilin.cloud](https://documentation.api.qilin.cloud/). We’ll continue to add new content.
+You can check our wiki to know how to [get started](https://github.com/QilinCloud/QilinCloud/wiki/Get-started).
+
+## SDKs
+
+We provice you some SDKs for common used languages here: [Show me the SDKs](https://github.com/search?q=user%3AQilinCloud+SDK&type=repositories)
 
 
-### Useful links to get started
+## Community
 
 * [Documentation](https://documentation.api.qilin.cloud/)
 * [API Authentication](https://documentation.api.qilin.cloud/)
 * [Making API requests](https://documentation.api.qilin.cloud/)
-* [API schema docs](https://documentation.api.qilin.cloud/)
 * [Getting Developer Access](https://documentation.api.qilin.cloud/)
 * [OpenAPI Specification](https://github.com/search?l=&q=user%3AQilinCloud+extension%3A.yaml+filename%3Aopenapi&type=code)
 * [Postman Collection](https://github.com/search?q=user%3AQilinCloud+extension%3A.json+filename%3Apostman_collection&type=Code&ref=advsearch&l=&l=)
-* [SDKs](https://github.com/search?q=user%3AQilinCloud+SDK&type=repositories)
 * [Join Slack Channel #external-devs](https://join.slack.com/share/todo)
 
 ## Code Quality
