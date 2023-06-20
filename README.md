@@ -36,7 +36,7 @@ We provice you some SDKs for common used languages here: [Show me the SDKs](http
 
 ## Community
 
-We invite you to join our open Slack Tech Talk channel: [Join Slack Channel #external-devs](https://join.slack.com/share/todo)
+We invite you to join our open Slack Tech Talk channel: [Join Slack Channel #external-devs](http://uni2.it/joinslack)
 
 ## Code Quality
 You will find some code-quality reports in the overview of each repository.
