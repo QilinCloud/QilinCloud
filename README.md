@@ -26,24 +26,22 @@ We’ve spent a lot of time poring over data and charts, but we recognize that o
 
 You can check our wiki to know how to [get started](https://github.com/QilinCloud/QilinCloud/wiki/Get-started).
 
+## Wiki
+
+We recommend reading the [wiki](https://github.com/QilinCloud/QilinCloud/wiki), here you will find the basic overview of how to use the Qlin.Cloud API. 
+
 ## SDKs
 
 We provice you some SDKs for common used languages here: [Show me the SDKs](https://github.com/search?q=user%3AQilinCloud+SDK&type=repositories)
-
 
 ## Community
 
 We invite you to join our open Slack Tech Talk channel: [Join Slack Channel #external-devs](https://join.slack.com/share/todo)
 
-
 ## Code Quality
 You will find some code-quality reports in the overview of each repository.
 
 We use a variety of state-of-the-art techniques to ensure that our code meets the highest quality criteria. If you still notice something bad, we are happy to have a strong community to solve the problem together with you: [How to provide Feedback](https://github.com/QilinCloud#how-to-provide-feedback)
-
-## Wiki
-
-We recommend reading the [wiki](https://github.com/QilinCloud/QilinCloud/wiki), here you will find the basic overview of how to use the Qlin.Cloud API. 
 
 ## How to provide feedback
 
