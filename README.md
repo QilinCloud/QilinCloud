@@ -1,6 +1,6 @@
 # Welcome!
 
-Qilin.Cloud is a global [technology platform](https://github.com/QilinCloud/QilinCloud/wiki/Technology-Platform) for composable commerce. We're driven by our mission to enable developers creating fabulous products for every merchat around the globe!
+Qilin.Cloud is a global [technology platform](https://github.com/QilinCloud/QilinCloud/wiki/Technology-Platform) for [composable commerce](https://github.com/QilinCloud/QilinCloud/wiki/Composable-Commerce). We're driven by our mission to enable developers creating fabulous products for every merchat around the globe!
 Let's help them together, using the right tools at the right time!
 
 Qilin.Cloud is part of the [MACH Alliance](https://github.com/QilinCloud/QilinCloud/wiki/MACH-Alliance).
