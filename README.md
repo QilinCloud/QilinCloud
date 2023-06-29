@@ -1,6 +1,7 @@
 # Welcome!
 
-Qilin.Cloud is a global plattform for composable commerce. We're driven by our mission to enable every merchat using the right tools at the right time!
+Qilin.Cloud is a global technology plattform for composable commerce. We're driven by our mission to enable developers creating fabulous products for every merchat around the globe!
+Let's help them together, using the right tools at the right time!
 Qilin.Cloud is part of the [MACH Alliance](https://machalliance.org/).
 
 This space is a way for us to collaborate directly with developers like you.
