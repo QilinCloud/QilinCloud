@@ -1,6 +1,6 @@
 # Welcome!
 
-Qilin.Cloud is a global technology platform for composable commerce. We're driven by our mission to enable developers creating fabulous products for every merchat around the globe!
+Qilin.Cloud is a global [technology platform](https://github.com/QilinCloud/QilinCloud/wiki/Technology-Platform) for composable commerce. We're driven by our mission to enable developers creating fabulous products for every merchat around the globe!
 Let's help them together, using the right tools at the right time!
 
 Qilin.Cloud is part of the [MACH Alliance](https://github.com/QilinCloud/QilinCloud/wiki/MACH-Alliance).
@@ -10,7 +10,7 @@ This space is a way for us to collaborate directly with developers like you.
 
 ## What we’re doing
 
-We have created a technological platform where all areas of e-commerce domain converge in such a way as to ensure seamless and rapid interchangeability, no matter of who, when, how much and where. This empowers you to create astonishing products for your customers in the shortest possible time-to-market range without sacrificing stability, quality or even scalability. 
+We have created a [technological platform](https://github.com/QilinCloud/QilinCloud/wiki/Technology-Platform) where all areas of e-commerce domain converge in such a way as to ensure seamless and rapid interchangeability, no matter of who, when, how much and where. This empowers you to create astonishing products for your customers in the shortest possible time-to-market range without sacrificing stability, quality or even scalability. 
 With our powerfull data orchestration engine, you are able to create customised processors for your very own and specific scenario. And accordingly to our process mining engine, you not only define, overview and analyze processes, but also automatically identify inefficiencies and therefore safe time and money to have them fixed.
 We are constantly working on it and improving our services, adding new endpoints and methods, refining models and fixing bugs.
 All of this has to be well documented, because the goal of our work is to meet the needs of the Qilin.Cloud developer community and make your life easier. This space should therefore be for open, fast and uncomplicated exchange.
