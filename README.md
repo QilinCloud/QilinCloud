@@ -21,7 +21,7 @@ We are always looking for creative minds to join us as dev, architect, qc, pm, d
 
 ## Why we’re building in the open
 
-We’ve spent a lot of time poring over data and charts, but we recognize that our users know their needs best. We also have a hunch that many of you share the same needs. By sharing our plans, documentation, and progress we can all work together to build the API that you need.
+We’ve spent a lot of time poring over data and charts, but we recognize that our users know their needs best. We also have a hunch that many of you share the same needs. By sharing our plans, documentation, and progress we can all work together to build the platform that you need. We strongly believe that building in the open, is more than just a phrase. We are advocats of [open commerce](https://github.com/QilinCloud/QilinCloud/wiki/Open-Commerce), from our point of view it's the future of e-commerce.
 
 
 ## How to get started
