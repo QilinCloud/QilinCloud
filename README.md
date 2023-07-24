@@ -10,10 +10,13 @@ This space is a way for us to collaborate directly with developers like you.
 
 ## What we’re doing
 
-We have created a [technological platform](https://github.com/QilinCloud/QilinCloud/wiki/Technology-Platform) where all areas of e-commerce domain converge in such a way as to ensure seamless and rapid interchangeability, no matter of who, when, how much and where. This empowers you to create astonishing products for your customers in the shortest possible time-to-market range without sacrificing stability, quality or even scalability. 
-With our powerfull data orchestration engine, you are able to create customised processors for your very own and specific scenario. And accordingly to our process mining engine, you not only define, overview and analyze processes, but also automatically identify inefficiencies and therefore safe time and money to have them fixed.
-We are constantly working on it and improving our services, adding new endpoints and methods, refining models and fixing bugs.
-All of this has to be well documented, because the goal of our work is to meet the needs of the Qilin.Cloud developer community and make your life easier. This space should therefore be for open, fast and uncomplicated exchange.
+With Qilin.Cloud we've created a [technological platform](https://github.com/QilinCloud/QilinCloud/wiki/Technology-Platform)  where all aspects of e-commerce seamlessly converge, ensuring rapid and efficient interchangeability regardless of the who, when, how much, and where. We understand the challenges faced by software developers and decision-makers in businesses, and our platform is designed to empower you to create extraordinary products for your users with an unprecedented time-to-market range, without compromising on stability, quality, or scalability.
+
+Our powerful data orchestration engine allows you to tailor custom processors for your specific scenarios. Additionally, our process mining engine not only enables you to define, overview, and analyze processes but also automatically identifies inefficiencies, saving you valuable time and money in resolving them.
+
+We are dedicated to continuous improvement, regularly adding new endpoints and methods, refining models, and addressing any bugs that may arise. Ensuring our services are well-documented is crucial to us, as our ultimate goal is to meet the needs of the Qilin.Cloud developer community and make your life easier. This space is intended to foster an open, fast, and uncomplicated exchange of ideas and solutions.
+
+Join us on this journey to transform the e-commerce landscape and unlock the full potential of your business in a dynamic and efficient manner. Together, we'll redefine the possibilities and create extraordinary experiences for your users.
 
 ## Looking for a new challening opportunity?
 
