@@ -46,6 +46,10 @@ We recommend reading the [wiki](https://github.com/QilinCloud/QilinCloud/wiki), 
 
 You are new to Qilin.Cloud? Check [how to get started](https://github.com/QilinCloud/QilinCloud/wiki/Get-started)
 
+## Service Status Page
+
+You will find the status of our services (APIs, Engines, Websites, etc.) in our [discussions pinned](https://github.com/orgs/QilinCloud/discussions/6#discussion-5853721) and also here: [status.qilin.cloud](https://status.qilin.cloud)
+
 ## SDKs
 
 We provide you some SDKs for common used languages here: [Show me the SDKs](https://github.com/QilinCloud/QilinCloud/wiki/SDKs)
