@@ -20,7 +20,7 @@ Join us on this journey to transform the e-commerce landscape and unlock the ful
 
 ## Looking for a new challening opportunity?
 
-We are always looking for creative minds to join us as dev, architect, qc, pm, devop or secop to build the Qilin.Cloud of tomorrow! Join our fascinating crowd: [jobs@qilin.cloud](mailto:jobs@qilin.cloud).
+We are always looking for creative minds to join us as dev, architect, qc, pm, devop, secop and many more to build the Qilin.Cloud of tomorrow! Join our fascinating crowd: [qilin.cloud/career](https://qilin.cloud/career).
 
 ## Why we’re building in the open
 
